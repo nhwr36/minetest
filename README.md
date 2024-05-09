@@ -66,8 +66,8 @@ Some can be changed in the key config dialog in the settings tab.
 | Shift + V                     | Change minimap orientation                                     |
 | F1                            | Hide/show HUD                                                  |
 | F2                            | Hide/show chat                                                 |
-| F3                            | Disable/enable fog                                             |
-| F4                            | Disable/enable camera update (Mapblocks are not updated anymore when disabled, disabled in release builds)  |
+| F3                            | Disable/enable fog (needs debug privilege)                                            |
+| F4                            | Disable/enable camera update (Mapblocks are not updated anymore when disabled, needs debug privilege)  |
 | F5                            | Cycle through debug information screens                        |
 | F6                            | Cycle through profiler info screens                            |
 | F10                           | Show/hide console                                              |
